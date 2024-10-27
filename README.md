@@ -4,5 +4,5 @@ A movie recommender system leverages machine learning techniques to provide pers
 
 
 Name:- Arjun Singh Rajput
-Deployed Link:- https://mrsforacm-u7sjzhzasny3nk2nyuacof.streamlit.app
+Project Deployed Link:- https://mrsforacm-u7sjzhzasny3nk2nyuacof.streamlit.app
 Demo Video Link:- https://drive.google.com/drive/folders/1PYfN4ht2wFAkHrhbjkGXs8oWE5uO4OA_?usp=sharing
